@@ -1,0 +1,575 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1716621939799,
+    "data": [
+        {
+            "type": "file",
+            "name": "20240520_085057.jpg",
+            "size": 4911319,
+            "hash": "7af9b45b71418fec10335da11a8b1fb301e5eec67c98defd36aab4418b8cc71c"
+        },
+        {
+            "type": "file",
+            "name": "20240524_210711.jpg",
+            "size": 2162131,
+            "hash": "a43914e05d10246b01e63bc14f48201f87349e0b16cc4fe5b7544b25fe072bf8"
+        },
+        {
+            "type": "file",
+            "name": "20240524_210750.jpg",
+            "size": 1727351,
+            "hash": "52d4803af09a3fdf9ed7035f596699cb92c3a470f8f8f12e40713ef9b6b5a831"
+        },
+        {
+            "type": "folder",
+            "name": "_astro"
+        },
+        {
+            "type": "folder",
+            "name": "admin"
+        },
+        {
+            "type": "folder",
+            "name": "files"
+        },
+        {
+            "type": "folder",
+            "name": "gallery"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 33542,
+            "hash": "5397624b3e26b1e37f5fc2ce4883be7dd05ab3166851b38f0e862919985898b3"
+        },
+        {
+            "type": "file",
+            "name": "midsommar.jpg",
+            "size": 91859,
+            "hash": "dd142d393dc2677acfe6300aa3d6dde2c4a19062c686ea7e76336ca816294deb"
+        },
+        {
+            "type": "folder",
+            "name": "om"
+        },
+        {
+            "type": "folder",
+            "name": "samhallsservice"
+        },
+        {
+            "type": "folder",
+            "name": "segora"
+        },
+        {
+            "type": "file",
+            "name": "_astro/Collage.Bgy5NZWx.js",
+            "size": 4262,
+            "hash": "9ba958b720725fb4639f377e309d9d0165ceec3515c79830c95ecf79d7627015"
+        },
+        {
+            "type": "file",
+            "name": "_astro/Events.DVvpP1v7.js",
+            "size": 4394,
+            "hash": "3886a812716a9a052b738f2adab5805f9c45028d8a90ed1959e70132930135d2"
+        },
+        {
+            "type": "file",
+            "name": "_astro/add.CTP9pzsS.svg",
+            "size": 464,
+            "hash": "96b85a8bfc12554b2e46d2c766ed17236450c657b4f258f03c543ac5211b01f5"
+        },
+        {
+            "type": "file",
+            "name": "_astro/client.J7s0XX1m.js",
+            "size": 135440,
+            "hash": "1b5a5bef7ec2061ad757ee8974c417de9903399c94ab0137b241d7ad75410a3c"
+        },
+        {
+            "type": "file",
+            "name": "_astro/cottage.CVtDF3be.svg",
+            "size": 374,
+            "hash": "7cbf14838f97557707f8813b160802a576832ac6a8fe8bb9411ba7ed8f942822"
+        },
+        {
+            "type": "file",
+            "name": "_astro/eventIcon.BZBgY-FA.svg",
+            "size": 915,
+            "hash": "8b77b114ca035645521260993710a46fceb765702a9340a4b4135e25e83270c0"
+        },
+        {
+            "type": "file",
+            "name": "_astro/feed.CZwuluu3.svg",
+            "size": 354,
+            "hash": "88b32b14a7040ff97d310545180b807043820d65ed96bd7c2447e8ed5f71718d"
+        },
+        {
+            "type": "file",
+            "name": "_astro/heart.D1nUPsrh.svg",
+            "size": 510,
+            "hash": "f1cc6d913bb6a8e3109891809d8680c868bec4fdc5a5d39abd05e2f82fdfc91b"
+        },
+        {
+            "type": "file",
+            "name": "_astro/hoisted.6etsg05a.js",
+            "size": 360,
+            "hash": "29ac707f2b7b80be10cff142f296b642a55a3d974a243e620d7357cbec993ce0"
+        },
+        {
+            "type": "file",
+            "name": "_astro/hoisted.DI1wdPC_.js",
+            "size": 227,
+            "hash": "9cda45def04aecf03595039b372768e7e098d5f8100049a9ea745562fa3de69a"
+        },
+        {
+            "type": "file",
+            "name": "_astro/hoisted.DZL4CV8D.js",
+            "size": 14114,
+            "hash": "078a4ab305424b0636e2e47def31ec250b36453cad8356ecc41809d779cbc7d2"
+        },
+        {
+            "type": "file",
+            "name": "_astro/imageIcon.DMlG3zS2.svg",
+            "size": 431,
+            "hash": "06385503014aca19d0c8439889f83f158ddd7f33cbbd3981f2eaa907e3927e16"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img-186.YXelceQ5.jpg",
+            "size": 941907,
+            "hash": "01617bffe955ae5d84811ff3fc7889cf7bc7cd69c2f8d70a0551c8a227e1d08c"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img-187.DaXkvBYg.jpg",
+            "size": 850609,
+            "hash": "4709b401126f08f1b3626109195e8d69db79cc60ab1d9847ee366faa986d265d"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img-192.CixpjST9.jpg",
+            "size": 716834,
+            "hash": "acbf3d77323ab3dcb67e0487718ca407b61a3e4743ef2f9c0de27e215f08e42d"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img_0343.CP_3A-49.jpg",
+            "size": 798371,
+            "hash": "c82099445b99a0c487125b97efdc525a726809f6a15f56bbdafa489f08225a11"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img_0345.CEg5tOc3.jpg",
+            "size": 1132571,
+            "hash": "c692eb412c395e600c033b6cf8447b0701c4891bf48ace4acf928f1fda72ec85"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img_0719.DH49RgCL.jpg",
+            "size": 835163,
+            "hash": "4fbf4d6c83de158c3e5cb45839328b5b494bde2754a828aad5e4b80db02d9252"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img_1175.DhP5Fmnc.jpg",
+            "size": 410796,
+            "hash": "25e236e0a58a2b2945b6092e5fa360143be939a09b3ef17e6d2177eca4007b4c"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img_1222.DjCN5vIC.jpg",
+            "size": 536889,
+            "hash": "04ecbd1942543cf9c6855f9be0e2e0bb859e70644f9e38899ff7de7ffc897333"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img_1276.Cm2pmjfC.jpg",
+            "size": 822009,
+            "hash": "d014ed62225f97a08bcc8c53d3138ac6460518c84b9db3e519d522dbfa850730"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img_1286.Wyx6Mq3R.jpg",
+            "size": 668912,
+            "hash": "b9f329e6a2c41841010a3ce67d536d5182e7a1fbea713b136114465fc42a10a0"
+        },
+        {
+            "type": "file",
+            "name": "_astro/img_2307.CtkNlwHd.jpg",
+            "size": 637789,
+            "hash": "0458c2f722ddfeaa69a17a02a2a3d6385e1af3bbb7e33dbefb1a119ce65db59b"
+        },
+        {
+            "type": "file",
+            "name": "_astro/index.DhYZZe0J.js",
+            "size": 6717,
+            "hash": "00b7c0ace0d257f1a8b55a04f220680da859dd16b2aee5024ceeec8ad514e0c5"
+        },
+        {
+            "type": "file",
+            "name": "_astro/index.LhP2ORBL.css",
+            "size": 19939,
+            "hash": "b2272fb810ef5a3c56ec1e3e0d213bbb00f0fd7b02fff382697e2d0b3b247f80"
+        },
+        {
+            "type": "file",
+            "name": "_astro/jsx-runtime.7faW4zRM.js",
+            "size": 918,
+            "hash": "1cf998b90da053f64295cfbfb8c3f87d04c149c1ccaa7772e058fc039e935474"
+        },
+        {
+            "type": "file",
+            "name": "_astro/mapIcon.B04E5inr.svg",
+            "size": 398,
+            "hash": "ced75d9cdf4c36fb89c1b3444e3cbf9f3093078909bd3dd61d172d9905d76af5"
+        },
+        {
+            "type": "file",
+            "name": "_astro/remove.K5NTyYu1.svg",
+            "size": 431,
+            "hash": "60583c42ba8ea5d163289c2f7c55307860a521f089aa6ffbb0fb772f12aa7b93"
+        },
+        {
+            "type": "file",
+            "name": "_astro/shuffle.BmqK0Cl_.svg",
+            "size": 274,
+            "hash": "779000982f6cb1a2f4941f44df8937f402e12f15db45d77885620f2393a7d77e"
+        },
+        {
+            "type": "file",
+            "name": "_astro/waterbg.CVo39W9m.jpg",
+            "size": 3175303,
+            "hash": "0f204defec6b53913c51f5bffb5f45a34fa13c66744c8ff3e480aa555618fd07"
+        },
+        {
+            "type": "file",
+            "name": "_astro/Åryd flygfoto 1280x500.BaDfeq0R.jpg",
+            "size": 1126756,
+            "hash": "926e45fd307395ef3308e2049fb0cc3d58b1eb4f3a189e139bd5a16f5570f8d3"
+        },
+        {
+            "type": "folder",
+            "name": "admin/assets"
+        },
+        {
+            "type": "file",
+            "name": "admin/index.html",
+            "size": 2285,
+            "hash": "1bc0f3bc86d68ed5e17acfcb61ec8d3e807a85f85f848348aefe57e02fd785e6"
+        },
+        {
+            "type": "file",
+            "name": "files/20sidorARYD72dpi.pdf",
+            "size": 3202864,
+            "hash": "0310518fba98c30a39f8ebcfb588c8c8f0ac542188aedc4ddca42e886c1d8b57"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img-186.jpg",
+            "size": 941907,
+            "hash": "01617bffe955ae5d84811ff3fc7889cf7bc7cd69c2f8d70a0551c8a227e1d08c"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img-187.jpg",
+            "size": 850609,
+            "hash": "4709b401126f08f1b3626109195e8d69db79cc60ab1d9847ee366faa986d265d"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img-192.jpg",
+            "size": 716834,
+            "hash": "acbf3d77323ab3dcb67e0487718ca407b61a3e4743ef2f9c0de27e215f08e42d"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img_0343.jpg",
+            "size": 798371,
+            "hash": "c82099445b99a0c487125b97efdc525a726809f6a15f56bbdafa489f08225a11"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img_0345.jpg",
+            "size": 1132571,
+            "hash": "c692eb412c395e600c033b6cf8447b0701c4891bf48ace4acf928f1fda72ec85"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img_0719.jpg",
+            "size": 835163,
+            "hash": "4fbf4d6c83de158c3e5cb45839328b5b494bde2754a828aad5e4b80db02d9252"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img_1175.jpg",
+            "size": 410796,
+            "hash": "25e236e0a58a2b2945b6092e5fa360143be939a09b3ef17e6d2177eca4007b4c"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img_1222.jpg",
+            "size": 536889,
+            "hash": "04ecbd1942543cf9c6855f9be0e2e0bb859e70644f9e38899ff7de7ffc897333"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img_1276.jpg",
+            "size": 822009,
+            "hash": "d014ed62225f97a08bcc8c53d3138ac6460518c84b9db3e519d522dbfa850730"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img_1286.jpg",
+            "size": 668912,
+            "hash": "b9f329e6a2c41841010a3ce67d536d5182e7a1fbea713b136114465fc42a10a0"
+        },
+        {
+            "type": "file",
+            "name": "gallery/img_2307.jpg",
+            "size": 637789,
+            "hash": "0458c2f722ddfeaa69a17a02a2a3d6385e1af3bbb7e33dbefb1a119ce65db59b"
+        },
+        {
+            "type": "file",
+            "name": "om/index.html",
+            "size": 12280,
+            "hash": "178b9c5528362afc5b83ece40be4d076a5af08349e9c3815b2840185d8c0d76a"
+        },
+        {
+            "type": "folder",
+            "name": "om/kontakt"
+        },
+        {
+            "type": "file",
+            "name": "samhallsservice/index.html",
+            "size": 9980,
+            "hash": "fc8b4bcb1c00325244454c121748fd59ec3971690fb27a261fab81987168b0d3"
+        },
+        {
+            "type": "file",
+            "name": "segora/index.html",
+            "size": 10290,
+            "hash": "9c94dde298a463d2e869f9556889d97059cf16cb7492a59c1fdbce372dc83b48"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/SchemaReference.es-3dd018b0.js",
+            "size": 48291,
+            "hash": "9c7eb89d5dc810c764897e707cb132c69364d222395ab03fd455ab392dd93a29"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/brace-fold.es-f2e3735d.js",
+            "size": 2744,
+            "hash": "2b23c428bb6ce827f6ceca3bae28ffc819fc8a326713a29cf0a0c1f3723a9692"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/closebrackets.es-e969742b.js",
+            "size": 4279,
+            "hash": "2b990b0aaea4a0296348f178a7a266c1e49e96c2195c31a88226fab6665106ba"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/codemirror.es-52e8b92d.js",
+            "size": 579,
+            "hash": "a5c999ee1093c32cc6079f1fd2c7a624b26cc7aa588adfae438e975fccb8e0e4"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/codemirror.es2-5884f31a.js",
+            "size": 183578,
+            "hash": "39859fa6448cf558553e9651c38dbf1291d0e48cea4df21e9dcae7114544bde7"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/comment.es-39699bae.js",
+            "size": 4634,
+            "hash": "ca418d125453f3d7d5cbed6db08d0aee09f35fbc05ff4313dedbd47988cc26d8"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/dialog.es-dffe62e7.js",
+            "size": 610,
+            "hash": "0a520c7d90123ecfa970d40674c4dfc0002c88329840f5fa2b1ef58112753378"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/dialog.es2-02b3b4e7.js",
+            "size": 2509,
+            "hash": "2c4a681ed9a6a90f185303eb33724928b9d9947a11bb6443b84860028a00f277"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/foldgutter.es-b6cee46a.js",
+            "size": 5922,
+            "hash": "eac27bcbb6b3a2e55ed5272e3034c2dd9c0eab4802ddc87ce6b39f55df899d03"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/forEachState.es-b2033c2b.js",
+            "size": 230,
+            "hash": "4024a457936618536825749bebecacbfbfcd8a2098e046edb35824bd86b756e2"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/hint.es-bf6b28f4.js",
+            "size": 731,
+            "hash": "1b92e6679e82754379b27058c7cf2a9f856bd957ccb5a111bc72b674ffd3f97c"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/hint.es2-e6ece8eb.js",
+            "size": 3164,
+            "hash": "ee86e0a9ace62d98d649177f3253b31f477934309adc374803a007838337d4c7"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/index-752ea69f.css",
+            "size": 485683,
+            "hash": "752ea69f64784720a05fb7873c2e476caddf2bfd5f6eb80586528c987b9bbc57"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/index-a7cbb2ce.js",
+            "size": 4273957,
+            "hash": "40f9569c77f8c44d019fb55f2aaaaf182057c81f406714d763cef3844602029d"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/index-fc182852.js",
+            "size": 28997,
+            "hash": "38582349fdc07e7a4e7645150629831c2cc06162c1192ccc1c9b91c6860ebc52"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/info-addon.es-c9b2027b.js",
+            "size": 2609,
+            "hash": "e2206c952cd91c3a6e6873dd2992e7162526e678b5e6b80ce8253bb1746e3355"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/info.es-b8026d6b.js",
+            "size": 3757,
+            "hash": "5b418b8865f7f3022a27e3ab2fabd51a10bc6332c179d2c26aa7c67cc003871d"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/javascript.es-3c6957c5.js",
+            "size": 20320,
+            "hash": "3bcf4462fa14b42cd111786a7e16360d21fb22629d9028a09151219881d82368"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/jump-to-line.es-d901ea33.js",
+            "size": 1731,
+            "hash": "6b1af8a9214b101cd40beb6babcf104b8fd61f49aa7d6f07c5666b8046c4bf89"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/jump.es-0cff0dc1.js",
+            "size": 2921,
+            "hash": "1841e1c6e6e00cf9515acba0a2dcf8230ae237935edcc49b54072859154ef656"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/lint.es-fe7166bb.js",
+            "size": 5930,
+            "hash": "3b0cc2d5395f7aa8de5fc1a91005bcfb025bf5074d2886d0a403f4b0cf885f38"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/lint.es2-0dcd8c14.js",
+            "size": 611,
+            "hash": "8b947b96f761b5364c255a485e53381e528d263de3a238a4e1df14e750a21935"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/lint.es3-7412b000.js",
+            "size": 4768,
+            "hash": "5ee675547f8ba7f17b220d6b75254fd1e4538b9be433aaa04aa0a1220daed660"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/matchbrackets.es-97d2e827.js",
+            "size": 617,
+            "hash": "e8c36163cd0ad40788c5b09f39e2a10aeea6c3cc4425a7bd7f06e0e6506c0160"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/matchbrackets.es2-f53f57e6.js",
+            "size": 3354,
+            "hash": "344bd95b21984ae91559f0e4b4eda0a5f398ba73ea79871d12f3c5ae47ee1db2"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/mode-indent.es-057a4f6a.js",
+            "size": 326,
+            "hash": "93d8b7ae51351e614eeef20bca22a8f8f0c2cf057eb9b8571a58196ddceddaaf"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/mode.es-93b9355c.js",
+            "size": 595,
+            "hash": "0d1b039fac2dee156572d7c19efa7c01ee939de274068fdb59cb8802d5997ac6"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/mode.es2-ee06340d.js",
+            "size": 1562,
+            "hash": "d946ae6040f6d1902067967c2d100c2add3fd91b2bbe7c9954fbdf339b343412"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/mode.es3-4ca3f6fb.js",
+            "size": 1367,
+            "hash": "f2bf79353bc5755a2e7e7a92e34e67211acfa8cee862ef658b00451396011856"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/search.es-1c15f5ea.js",
+            "size": 6776,
+            "hash": "5e00c1711c32846f005567d8f10f6f935645cafdc32e1fb38486db0565b6e5b2"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/searchcursor.es-b1a352a2.js",
+            "size": 616,
+            "hash": "7549d3b4e80b4b8401de96a0127c91fbcd1a082c09022903f79d2abe2cbd2421"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/searchcursor.es2-cbfe7cae.js",
+            "size": 5800,
+            "hash": "728d7d4771bacd0d5c9be1621cf505df35c89a84e2b9c0b7085127dc390fa19a"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/show-hint.es-b981493e.js",
+            "size": 11543,
+            "hash": "a7a143433f2f4d04464925ca9877dcdb72ce0023bda73b95f2d4b7716fe5d474"
+        },
+        {
+            "type": "file",
+            "name": "admin/assets/sublime.es-e2a3eb60.js",
+            "size": 16115,
+            "hash": "bc4ea5ab3d5a6970cefe27e2a6ce6a7b1560ed561b61775727abdc1b7bfb167d"
+        },
+        {
+            "type": "file",
+            "name": "om/kontakt/index.html",
+            "size": 6545,
+            "hash": "05f7b29103fe62edd564443a52daeb9ec59c52394b407a315a76a79ffe818963"
+        },
+        {
+            "type": "folder",
+            "name": "segora/evenemang"
+        },
+        {
+            "type": "file",
+            "name": "segora/evenemang/index.html",
+            "size": 8323,
+            "hash": "1ac67a51b4cf5ce96c04d97dbde19e23c8144a1167ec852a3dd99e74ccd4bd4f"
+        }
+    ]
+}
