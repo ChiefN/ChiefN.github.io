@@ -1,1 +1,0 @@
-import"./hoisted.DZL4CV8D.js";const c=document.querySelectorAll(".mapslocation");c.forEach(o=>{o.addEventListener("click",a=>{let e=`https://www.google.com/maps/embed/v1/place?key=AIzaSyCImFCxf7N5xJlqP6NWqoWoY-qZ3yjrKKU&q=${a.target.closest("details").dataset.cord}35&zoom=16&maptype=satellite`,t=document.querySelector("#map-iframe");e!=t.src&&(t.src=e)})});

@@ -1,1 +1,0 @@
-import"./hoisted.DZL4CV8D.js";const t=document.querySelectorAll(".MONTHLYGROUP");t.forEach(e=>{e.dataset.month>=new Date().getMonth()&&e.dataset.year>=new Date().getYear()-100&&(console.log("hej"),e.setAttribute("open",!0))});

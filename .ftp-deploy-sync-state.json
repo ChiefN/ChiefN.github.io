@@ -1,8 +1,14 @@
 {
     "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
     "version": "1.0.0",
-    "generatedTime": 1716621939799,
+    "generatedTime": 1716637360599,
     "data": [
+        {
+            "type": "file",
+            "name": ".nojekyll",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
         {
             "type": "file",
             "name": "20240520_085057.jpg",
@@ -40,8 +46,8 @@
         {
             "type": "file",
             "name": "index.html",
-            "size": 33542,
-            "hash": "5397624b3e26b1e37f5fc2ce4883be7dd05ab3166851b38f0e862919985898b3"
+            "size": 34059,
+            "hash": "20fd8bb9e34676d5bfc8fc91eee646fbbbe39fe3f4c9630b7097b1f9456cddbe"
         },
         {
             "type": "file",
@@ -63,15 +69,15 @@
         },
         {
             "type": "file",
-            "name": "_astro/Collage.Bgy5NZWx.js",
-            "size": 4262,
-            "hash": "9ba958b720725fb4639f377e309d9d0165ceec3515c79830c95ecf79d7627015"
+            "name": "_astro/Collage.CUV6tR7U.js",
+            "size": 4240,
+            "hash": "d26c71acdcd63e7b5ffc6d4d16af7b6fd3bfb3c5059277c648c7fc437f4b21c3"
         },
         {
             "type": "file",
-            "name": "_astro/Events.DVvpP1v7.js",
-            "size": 4394,
-            "hash": "3886a812716a9a052b738f2adab5805f9c45028d8a90ed1959e70132930135d2"
+            "name": "_astro/Events.FrFmIz4i.js",
+            "size": 4344,
+            "hash": "6dc35d5b67f2c93f2eda692ddac9f36effed29a8c6a65c7de78e86e07f4651ca"
         },
         {
             "type": "file",
@@ -108,24 +114,6 @@
             "name": "_astro/heart.D1nUPsrh.svg",
             "size": 510,
             "hash": "f1cc6d913bb6a8e3109891809d8680c868bec4fdc5a5d39abd05e2f82fdfc91b"
-        },
-        {
-            "type": "file",
-            "name": "_astro/hoisted.6etsg05a.js",
-            "size": 360,
-            "hash": "29ac707f2b7b80be10cff142f296b642a55a3d974a243e620d7357cbec993ce0"
-        },
-        {
-            "type": "file",
-            "name": "_astro/hoisted.DI1wdPC_.js",
-            "size": 227,
-            "hash": "9cda45def04aecf03595039b372768e7e098d5f8100049a9ea745562fa3de69a"
-        },
-        {
-            "type": "file",
-            "name": "_astro/hoisted.DZL4CV8D.js",
-            "size": 14114,
-            "hash": "078a4ab305424b0636e2e47def31ec250b36453cad8356ecc41809d779cbc7d2"
         },
         {
             "type": "file",
@@ -207,9 +195,9 @@
         },
         {
             "type": "file",
-            "name": "_astro/index.LhP2ORBL.css",
-            "size": 19939,
-            "hash": "b2272fb810ef5a3c56ec1e3e0d213bbb00f0fd7b02fff382697e2d0b3b247f80"
+            "name": "_astro/index.ZdrRFIqw.css",
+            "size": 19853,
+            "hash": "bc941d10b33adbbc17602a8e9bec38946e74818143cb5dd194299b5fa12e89c4"
         },
         {
             "type": "file",
@@ -332,8 +320,8 @@
         {
             "type": "file",
             "name": "om/index.html",
-            "size": 12280,
-            "hash": "178b9c5528362afc5b83ece40be4d076a5af08349e9c3815b2840185d8c0d76a"
+            "size": 12676,
+            "hash": "189a5155635d937214c24174b576456140b8609b29f4adee96c819887d57916c"
         },
         {
             "type": "folder",
@@ -342,14 +330,18 @@
         {
             "type": "file",
             "name": "samhallsservice/index.html",
-            "size": 9980,
-            "hash": "fc8b4bcb1c00325244454c121748fd59ec3971690fb27a261fab81987168b0d3"
+            "size": 10489,
+            "hash": "803c72c10969095af1cab64bbfbec9f77203c68566ccacc9ee952d1d96785dfe"
+        },
+        {
+            "type": "folder",
+            "name": "segora/evenemang"
         },
         {
             "type": "file",
             "name": "segora/index.html",
-            "size": 10290,
-            "hash": "9c94dde298a463d2e869f9556889d97059cf16cb7492a59c1fdbce372dc83b48"
+            "size": 10799,
+            "hash": "ccd64a3f7a53d7fe64966a2d2eae5fedad4402f41ac61f77552a00b77d0fcf43"
         },
         {
             "type": "file",
@@ -558,18 +550,14 @@
         {
             "type": "file",
             "name": "om/kontakt/index.html",
-            "size": 6545,
-            "hash": "05f7b29103fe62edd564443a52daeb9ec59c52394b407a315a76a79ffe818963"
-        },
-        {
-            "type": "folder",
-            "name": "segora/evenemang"
+            "size": 7063,
+            "hash": "fc636e82c56561f878dde3ccc38878a59b8316912de9cdd3ae257ec0bed3e3cf"
         },
         {
             "type": "file",
             "name": "segora/evenemang/index.html",
-            "size": 8323,
-            "hash": "1ac67a51b4cf5ce96c04d97dbde19e23c8144a1167ec852a3dd99e74ccd4bd4f"
+            "size": 9049,
+            "hash": "3fcf36154a38458011b5b83e9721d341c886b6892a93ae1710236cde75260e56"
         }
     ]
 }
