@@ -4,5 +4,32 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 ---
 <BaseLayout>
-	Start
+	<h2 class="text-xl font-semibold">Introduction</h1>
+	<hr/><hr/><hr/>
+	<h2 class="text-xl font-semibold">Portfolio</h1>
+	<hr/><hr/><hr/>
+	<div class="flex gap-5 flex-wrap justify-center md:justify-start p-5">
+		<div class="border-4 border-black rounded-3xl overflow-hidden shadow relative group">
+			<div class="absolute inset-0 pointer-events-none flex flex-col justify-end">
+				<article class="bg-black text-white px-4 py-3 h-[8%] pointer-events-auto group-hover:h-[35%] transition-all">
+					<div class="mb-2 flex justify-between">
+						<p class="text-lg items-center">Åryd.se</p>
+						<a class="text-sm flex items-center" href="https://www.aryd.se/" target="_blank">Gå till</a>
+					</div>
+				</article>
+			</div>
+			<iframe src="https://www.aryd.se/" width="350px" height="600px" />
+		</div>
+		<div class="border-4 border-black rounded-3xl overflow-hidden shadow relative group">
+			<div class="absolute inset-0 pointer-events-none flex flex-col justify-end">
+				<article class="bg-white text-black px-4 py-3 h-[8%] pointer-events-auto group-hover:h-[35%] transition-all">
+					<div class="mb-2 flex justify-between">
+						<p class="text-lg">BokTinder</p>
+						<a class="text-sm flex items-center" href="https://blue-mud-034351603.5.azurestaticapps.net/" target="_blank">Link</a>
+					</div>
+				</article>
+			</div>
+			<iframe src="https://blue-mud-034351603.5.azurestaticapps.net/" width="350px" height="600px" />
+		</div>
+	</div>
 </BaseLayout>

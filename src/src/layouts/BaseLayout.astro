@@ -11,6 +11,12 @@
 		<title>Chiefn</title>
 	</head>
 	<body>
-		<slot />
+        <nav class="w-full flex gap-3 p-3 mt-3">
+            <a class="bg-black bg-opacity-5 px-5 py-1 rounded-xl" href="/">Home</a>
+            <a class="bg-black bg-opacity-5 px-5 py-1 rounded-xl" href="/post">Posts</a>
+        </nav>
+        <main class="p-5">
+            <slot />
+        </main>
 	</body>
 </html>
